@@ -1,15 +1,34 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import javax.swing.*;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+            Scanner entrada = new Scanner(System.in);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+            JFrame janela = new JFrame();
+            janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            janela.setSize(500, 500);
+            janela.setLayout(null);
+
+            JLabel label = new JLabel("UnniPlanning");
+            label.setBounds(210, -240, 500, 500);
+
+            JLabel label2 = new JLabel("Seleção de Função");
+            label2.setBounds(195, -200, 500, 500);
+
+            String[] funcao = {"Aluno", "Professor"};
+            JComboBox<String> funcoes = new JComboBox(funcao);
+            funcoes.setBounds(200, 80, 100, 25);
+            JButton botao = new JButton("Selecionar");
+            botao.setBounds(200, 150, 100, 25);
+
+
+
+            janela.add(label);
+            janela.add(label2);
+            janela.add(funcoes);
+            janela.add(botao);
+
+            janela.setVisible(true);
     }
 }
