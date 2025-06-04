@@ -11,9 +11,9 @@
 			* Cpf: campo obrigatório;
 			* Email: campo obrigatório; Campo para redefinir os dados (excluir o que já preencheu).
 			* Curso: campo obrigatório - O aluno escreve o curso em que está inserido para que acontece a confirmação com o sistema. 
-			*	Botão para realizar o cadastro no sistema: campo obrigatório para que o aluno consiga cadastrar as suas informações no banco de dados e acessar 						o sistema pela primeira vez.
+			* Botão para realizar o cadastro no sistema: campo obrigatório para que o aluno consiga cadastrar as suas informações no 				banco de dados e acessar o sistema pela primeira vez.
 
 			* Protótipo de tela de cadastro feito no Canva/Figma:
-			![1](https://github.com/user-attachments/assets/addb12ea-384c-43ff-a69e-f44077257d19)
+		![Image](https://github.com/user-attachments/assets/1268fd8b-82f3-440e-9986-5bdf88e55b33)
 
 
