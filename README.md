@@ -4,16 +4,25 @@
  1) Introdução do Projeto: O UniPlanning surgiu da necessidade de criar maneiras do estudante melhorarar sua rotina de estudos e seu desempenho no curso. O sistema oferece funcionalidades como planos de ensino persomalizados, vídeo-aulas relacionadas com o conteúdo, plataforma para postagem de arquivos e informações.
 
 2)Descrição das telas que serão desenvolvidas:
-   a) TELA DE CADASTRO DO ALUNO: Permitir que o aluno se cadastre, redefina senha, acesse o sistema e exclua seus dados. 
+   a) TELA DE CADASTRO DO ALUNO: Permitir que o aluno se cadastre seus dados e acesse o sistema
    Campos presentes na tela alunos:
-   * Matrícula (id): campo obrigatório;
-			* Nome: campo obrigatório;
-			* Cpf: campo obrigatório;
-			* Email: campo obrigatório; Campo para redefinir os dados (excluir o que já preencheu).
-			* Curso: campo obrigatório - O aluno escreve o curso em que está inserido para que acontece a confirmação com o sistema. 
-			* Botão para realizar o cadastro no sistema: campo obrigatório para que o aluno consiga cadastrar as suas informações no 				banco de dados e acessar o sistema pela primeira vez.
+  	* Matrícula (id): campo obrigatório;
+	* Nome: campo obrigatório;
+	* Cpf: campo obrigatório;
+	* Email: campo obrigatório;
+ 	* Senha: campo obrigatório;
+	* Curso: campo obrigatório - O aluno escreve o curso em que está inserido para que acontece a confirmação com o sistema. 
+	* Botão para realizar o cadastro no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga cadastrar as suas informações no 		banco de dados e acessar o sistema pela primeira vez.
+ 	* Texto com hiperlink para entrar em uma conta: Caso o aluno já possua uma conta, ele pode clicar no texto "AQUI" que fazerá ele ser 		redirecionado para a página de login.
+	* Protótipo de tela de cadastro feito no Canva e no Figma:
+	![Image](https://github.com/user-attachments/assets/a5e4f2cc-2731-447a-aa85-ba1d38df3725)
 
-			* Protótipo de tela de cadastro feito no Canva/Figma:
-		![Image](https://github.com/user-attachments/assets/1268fd8b-82f3-440e-9986-5bdf88e55b33)
+  b) TELA DE LOGIN DO ALUNO: Permitir que o aluno acesse o sistema sem ter que repitir o processo de cadastro após que ele ter feito isso uma vez.
+  	* Email: campo obrigatório;
+   	* Senha: campo obrigatório;
+    	* Botão para criar uma conta: Caso o aluno ainda não tenha criado o seu cadastro, ele pode clicar em um botão para ser redirecionado a tela 	de cadastro.
+   	* Botão para realizar o login no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga confirmar as suas informações e caso esteja 	tudo correto de acordo com o banco de dados da universidade, ele consiga acessar o sistema.
+    	* Protótipo de tela de login feito no Canva e no Figma:
+     	![Image](https://github.com/user-attachments/assets/be2c49e0-e2dd-4549-b6c3-e6778837d47d)
 
 
