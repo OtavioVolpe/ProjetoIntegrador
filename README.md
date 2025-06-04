@@ -1,6 +1,6 @@
 # ** ProjetoIntegrador - UniPlanning ** 
- Trabalho de Projeto Integrador - 3T-B, 2025
- Integrantes: Gabriel Hernandes de Oliveira, Hernandes de Castro Guereta, Luiz Felipe Gomes Magalhães, Maria Eloiza Marques Consolino, Otávio Volpe Leal.
+ ** Trabalho de Projeto Integrador **  - 3T-B, 2025  <br/>
+ ** Integrantes: ** Gabriel Hernandes de Oliveira, Hernandes de Castro Guereta, Luiz Felipe Gomes Magalhães, Maria Eloiza Marques Consolino, Otávio Volpe Leal.
  ## 1) Introdução do Projeto: 
  O UniPlanning surgiu da necessidade de criar maneiras do estudante melhorarar sua rotina de estudos e seu desempenho no curso. O sistema oferece funcionalidades como planos de ensino persomalizados, vídeo-aulas relacionadas com o conteúdo, plataforma para postagem de arquivos e informações.
 
@@ -18,12 +18,12 @@
 	* Protótipo de tela de cadastro feito no Canva e no Figma:  <br/>
 	![Image](https://github.com/user-attachments/assets/a5e4f2cc-2731-447a-aa85-ba1d38df3725)  <br/>
 
-  b) TELA DE LOGIN DO ALUNO: Permitir que o aluno acesse o sistema sem ter que repitir o processo de cadastro após que ele ter feito isso uma vez.
-  	* Email: campo obrigatório;
-   	* Senha: campo obrigatório;
-    	* Botão para criar uma conta: Caso o aluno ainda não tenha criado o seu cadastro, ele pode clicar em um botão para ser redirecionado a tela 	de cadastro.
-   	* Botão para realizar o login no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga confirmar as suas informações e caso esteja 	tudo correto de acordo com o banco de dados da universidade, ele consiga acessar o sistema.
+ ### TELA DE LOGIN DO ALUNO: Permitir que o aluno acesse o sistema sem ter que repitir o processo de cadastro após que ele ter feito isso uma vez.
+  	* Email: campo obrigatório;  <br/>
+   	* Senha: campo obrigatório;  <br/>
+    	* Botão para criar uma conta: Caso o aluno ainda não tenha criado o seu cadastro, ele pode clicar em um botão para ser redirecionado a tela 	de cadastro.  <br/>
+   	* Botão para realizar o login no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga confirmar as suas informações e caso esteja 	tudo correto de acordo com o banco de dados da universidade, ele consiga acessar o sistema.  <br/>
     	* Protótipo de tela de login feito no Canva e no Figma:
-     	![Image](https://github.com/user-attachments/assets/be2c49e0-e2dd-4549-b6c3-e6778837d47d)
+     	![Image](https://github.com/user-attachments/assets/be2c49e0-e2dd-4549-b6c3-e6778837d47d)  <br/>
 
 
