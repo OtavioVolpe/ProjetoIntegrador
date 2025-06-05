@@ -1,6 +1,7 @@
 # ProjetoIntegrador - UniPlanning
  **Trabalho de Projeto Integrador** - 3T-B, 2025  
  **Integrantes:** Gabriel Hernandes de Oliveira, Hernandes de Castro Guereta, Luiz Felipe Gomes Magalhães, Maria Eloiza Marques Consolino, Otávio Volpe Leal.  
+ **Esse documento contém:** Tópico 1 - Introdução ao nosso projeto; Tópico 2 - Explicação de todas as telas do nosso projeto com imagens representativas que foram criadas no canva e no figma; Tópico 3 - Diagrama de Classes do nosso projeto que exemplifica a ligação entre classes.
  ## 1) Introdução do Projeto: 
  O UniPlanning surgiu da necessidade de criar maneiras do estudante melhorarar sua rotina de estudos e seu desempenho no curso. O sistema oferece funcionalidades como planos de ensino persomalizados, vídeo-aulas relacionadas com o conteúdo, plataforma para postagem de arquivos e informações.
 
@@ -97,7 +98,10 @@
  	- Campo para os alunos digitarem um comando: Os alunos poderão digitar um comando relacionado ao conteúdo da faculdade e a inteligência artificial oferecerá uma resposta.  
     	- Botão de VOLTAR: Caso o aluno queira voltar para a tela de início ele pode clicar nesse botão interativo que ele será redirecionado para a tela de início.   
 	- Protótipo de tela de planner do aluno feito no Canva e no Figma:  
- ![Image](https://github.com/user-attachments/assets/5316cff1-cc94-4fbe-b910-2155d2b4b476)
+ ![Image](https://github.com/user-attachments/assets/5316cff1-cc94-4fbe-b910-2155d2b4b476)  
+
+ ## 3) Diagrama de Classes:
+ ![Image](https://github.com/user-attachments/assets/a9305db7-21c3-49ff-9b65-377d4b36d17e)
 
 
 
