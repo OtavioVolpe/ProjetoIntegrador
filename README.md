@@ -19,9 +19,9 @@
 
  ### TELA DE LOGIN DO ALUNO: Permitir que o aluno acesse o sistema sem ter que repitir o processo de cadastro após que ele ter feito isso uma vez.
    	- Email: campo obrigatório;  
-   	- Senha: campo obrigatório;  
-    	- Botão para criar uma conta: Caso o aluno ainda não tenha criado o seu cadastro, ele pode clicar em um botão para ser redirecionado a tela 	de cadastro.   
-   	- Botão para realizar o login no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga confirmar as suas informações e caso esteja 	tudo correto de acordo com o banco de dados da universidade, ele consiga acessar o sistema.  
+   	- Senha: campo obrigatório;
+    	- Botão para criar uma conta: Caso o aluno ainda não tenha criado o seu cadastro, ele pode clicar em um botão para ser redirecionado a tela de cadastro.  
+   	- Botão para realizar o login no sistema - CONFIRMAR : campo obrigatório para que o aluno consiga confirmar as suas informações e caso esteja tudo correto de acordo com o banco de dados da universidade, ele consiga acessar o sistema.    
     	- Protótipo de tela de login feito no Canva e no Figma:
 ![Image](https://github.com/user-attachments/assets/be2c49e0-e2dd-4549-b6c3-e6778837d47d)  
 
@@ -59,10 +59,10 @@
   	- Botão de VOLTAR: Caso o aluno queira voltar para a tela de início ele pode clicar nesse botão interativo que ele será redirecionado para a tela de início.   
   	Página da matéria que o aluno escolheu: Contém todas as vídeo-aulas que o professor daquela matéria linjou para os seus alunos assistirem.  
   	- Botão de VOLTAR: Caso o aluno queira voltar para a tela de matérias, ele pode clicar nesse botão interativo que ele será redirecionado para a tela de início das vídeo-aulas.   
-   	- Uma lista de vídeo-aulas no canto esquerdo da tela: Aqui estará em ordem, todas as vídeo-aulas que o professor cadastrou na sua matéria.   
-    	- Vídeo aula selecionada pelo aluno: Após o aluno escolher qual vídeo-aula ele queira assistir, a vídeo aula aparecerá no meio da tela. O aluno consegue aumentar a vídeo-aula para que ela ocupe toda a tela, pausar e despausar, pular ou voltar alguns segundos, aumentar ou diminuir o volume, entrar nas configurações para alterar a qualidade, a velocidade ou adicionar legendas no vídeo.  
-     	- Avaliação da vídeo-aula no canto direito da tela: Após assistirem a vídeo aula selecionada, os alunos vão conseguir avaliar o conteúdo. O sistema oferece três tipos de avaliação = boa, média, ruim; os professores conseguem acompanhar as avaliações dos alunos e assim ver se o conteúdo das vídeo-aulas que ele linkou está ajudando ou não e caso necessário ele consiga mudar.   
-   	- Protótipo de tela de planner do aluno feito no Canva e no Figma:
+	- Uma lista de vídeo-aulas no canto esquerdo da tela: Aqui estará em ordem, todas as vídeo-aulas que o professor cadastrou na sua matéria.   
+	- Vídeo aula selecionada pelo aluno: Após o aluno escolher qual vídeo-aula ele queira assistir, a vídeo aula aparecerá no meio da tela. O aluno consegue aumentar a vídeo-aula para que ela ocupe toda a tela, pausar e despausar, pular ou voltar alguns segundos, aumentar ou diminuir o volume, entrar nas configurações para alterar a qualidade, a velocidade ou adicionar legendas no vídeo.  
+	- Avaliação da vídeo-aula no canto direito da tela: Após assistirem a vídeo aula selecionada, os alunos vão conseguir avaliar o conteúdo. O sistema oferece três tipos de avaliação = boa, média, ruim; os professores conseguem acompanhar as avaliações dos alunos e assim ver se o conteúdo das vídeo-aulas que ele linkou está ajudando ou não e caso necessário ele consiga mudar.   
+	- Protótipo de tela de planner do aluno feito no Canva e no Figma:
 ![Image](https://github.com/user-attachments/assets/50c4e91c-e20e-4974-8ad7-5f5fe1d62b89)  
 ![Image](https://github.com/user-attachments/assets/161d2fce-83b9-4997-b885-f44955018bf4)  
 
